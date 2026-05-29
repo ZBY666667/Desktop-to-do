@@ -1,0 +1,6 @@
+**pycache**/
+*.pyc
+desktop_todo_data.json
+dist/
+build/
+*.spec
